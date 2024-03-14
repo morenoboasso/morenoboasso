@@ -1,5 +1,5 @@
-<center># 💫 About Me:
-Front-end Developer from Italy!
+# 💫 About Me:
+Front-end Developer from Italy! (Mostly Flutter, Kotlin, HTML)
 
 
 ## 🌐 Socials:
@@ -17,4 +17,3 @@ Front-end Developer from Italy!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=morenoboasso&icon=5&color=3)](https://visitcount.itsvg.in)
-</center>
