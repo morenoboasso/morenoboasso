@@ -15,9 +15,6 @@ Front-end Developer from Italy!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=morenoboasso&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=morenoboasso&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=morenoboasso&icon=5&color=3)](https://visitcount.itsvg.in)
 
