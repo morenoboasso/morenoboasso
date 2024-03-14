@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end Developer
+Front-end Developer from Italy!
 
 
 ## 🌐 Socials:
