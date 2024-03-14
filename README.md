@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Piccole Cose Dolci's Products](https://github.com/morenoboasso/Pasticceria-Piccole-Cose-Dolci)
 
-- 📫 How to reach me **mirmoccnt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
