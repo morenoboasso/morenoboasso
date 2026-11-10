@@ -11,9 +11,3 @@ Front-end Developer from Italy! (Mostly Flutter, Kotlin, HTML)
 ![](https://github-readme-stats.vercel.app/api?username=morenoboasso&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=morenoboasso&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=morenoboasso&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=morenoboasso&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=morenoboasso&icon=5&color=3)](https://visitcount.itsvg.in)
